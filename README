@@ -1,0 +1,11 @@
+-o <file name>
+    Output in said file
+
+-i <ime zbirke>
+    Input in said file
+
+-O <n>
+    Output in said file descriptor
+
+-I <n>
+    Input in said file descriptor
